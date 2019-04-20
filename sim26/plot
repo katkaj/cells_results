@@ -1,0 +1,12 @@
+cd discretisation_8x8x3
+./plot
+cd ..
+
+cd discretisation_16x16x3
+./plot
+cd ..
+
+cd discretisation_40x20x3
+./plot
+cd ..
+

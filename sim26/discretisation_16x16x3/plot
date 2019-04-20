@@ -1,0 +1,8 @@
+cd window_size_4
+./plot
+cd ..
+
+cd window_size_8
+./plot
+cd ..
+
